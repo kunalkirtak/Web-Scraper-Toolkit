@@ -1,0 +1,82 @@
+[
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Senior Python Developer",
+    "company": "Payne, Roberts and Davis",
+    "location": "Stewartbury, AA",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/senior-python-developer-0.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Energy engineer",
+    "company": "Vasquez-Davidson",
+    "location": "Christopherville, AA",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/energy-engineer-1.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Legal executive",
+    "company": "Jackson, Chambers and Levy",
+    "location": "Port Ericaburgh, AA",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/legal-executive-2.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Field seismologist",
+    "company": "Davis-Poole",
+    "location": "Seanfurt, AA",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/field-seismologist-77.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Ecologist",
+    "company": "Rogers-Yates",
+    "location": "Lauraton, AP",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/ecologist-23.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Neurosurgeon",
+    "company": "Fuller LLC",
+    "location": "Port Aaron, AP",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/neurosurgeon-31.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Printmaker",
+    "company": "Hansen Group",
+    "location": "North Patty, AE",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/printmaker-84.html"
+  },
+  {
+    "source_url": "https://realpython.github.io/fake-jobs/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Product manager, digital media",
+    "company": "Berry-Pham",
+    "location": "South Christopher, AE",
+    "job_type": null,
+    "date_posted": "2021-04-08",
+    "job_url": "https://realpython.github.io/fake-jobs/jobs/product-manager-digital-media-9.html"
+  }
+]

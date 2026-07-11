@@ -99,7 +99,7 @@ Web-Scraper-Toolkit/
 ├── utils.py                     # Shared helpers (parsing, cleaning, retries)
 ├── main.py                       # CLI entry point
 │
-├── output/                # Live-run output (git-ignored; you generate this)
+├── output/                # Live-run output 
 │   └── .gitkeep
 │
 ├── samples/                # Committed, ready-to-browse sample data

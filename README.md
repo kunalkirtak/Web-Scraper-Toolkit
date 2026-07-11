@@ -251,10 +251,8 @@ git init
 git add .
 git commit -m "Initial commit: Web Scraper Toolkit"
 
-# Create the repo on GitHub first (via the website or `gh repo create`),
-# then point your local repo at it:
 git branch -M main
-git remote add origin https://github.com/<your-username>/Web-Scraper-Toolkit.git
+git remote add origin https://github.com/kunalkirtak/Web-Scraper-Toolkit.git
 git push -u origin main
 ```
 

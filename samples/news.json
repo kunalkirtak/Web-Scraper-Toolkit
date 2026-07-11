@@ -1,0 +1,52 @@
+[
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+    "rank": 1,
+    "points": 651,
+    "author": "kls0e",
+    "comments_count": 158,
+    "article_url": "https://streetcomplete.app/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Chat Control passed first round in EU Parliament",
+    "rank": 2,
+    "points": 513,
+    "author": "miroljub",
+    "comments_count": 224,
+    "article_url": "https://www.heise.de/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "Microsoft fire idTech team at Id software",
+    "rank": 3,
+    "points": 312,
+    "author": "nickslaughter02",
+    "comments_count": 385,
+    "article_url": "https://www.gamefromscratch.com/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "The Art of Computer Programming by Donald E. Knuth",
+    "rank": 4,
+    "points": 199,
+    "author": "archargelod",
+    "comments_count": 52,
+    "article_url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "title": "YC CEO says he ships 37K LoC AI code per day",
+    "rank": 5,
+    "points": 105,
+    "author": "theanonymousone",
+    "comments_count": 97,
+    "article_url": "https://www.fastcompany.com/"
+  }
+]

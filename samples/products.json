@@ -1,0 +1,90 @@
+[
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "A Light in the Attic",
+    "price": 51.77,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 3,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "Tipping the Velvet",
+    "price": 53.74,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 1,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "Soumission",
+    "price": 50.1,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 1,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/soumission_998/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "Sharp Objects",
+    "price": 47.82,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 4,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "Sapiens: A Brief History of Humankind",
+    "price": 54.23,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 5,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "The Requiem Red",
+    "price": 22.65,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 1,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "The Dirty Little Secrets of Getting Your Dream Job",
+    "price": 33.34,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 4,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html"
+  },
+  {
+    "source_url": "https://books.toscrape.com/",
+    "scraped_at": "2026-07-08T10:10:42+00:00",
+    "name": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Clara Shepard",
+    "price": 17.93,
+    "currency": "GBP",
+    "availability": "In stock",
+    "rating": 3,
+    "category": null,
+    "product_url": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-clara-shepard_993/index.html"
+  }
+]

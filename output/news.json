@@ -1,0 +1,902 @@
+[
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Companies are scrambling to curtail soaring AI costs",
+    "rank": 1,
+    "points": 11,
+    "author": "nlpnerd",
+    "comments_count": 1,
+    "article_url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
+    "rank": 2,
+    "points": 222,
+    "author": "hhs",
+    "comments_count": 78,
+    "article_url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "QuadRF can spot drones and see WiFi through my wall",
+    "rank": 3,
+    "points": 562,
+    "author": "speckx",
+    "comments_count": 192,
+    "article_url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "rank": 4,
+    "points": 1002,
+    "author": "stock_toaster",
+    "comments_count": 511,
+    "article_url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "The vintage beauty of Soviet control rooms (2018)",
+    "rank": 5,
+    "points": 71,
+    "author": "mvdtnz",
+    "comments_count": 22,
+    "article_url": "https://designyoutrust.com/2018/01/vintage-beauty-soviet-control-rooms/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "An iroh powered smart fan",
+    "rank": 6,
+    "points": 97,
+    "author": "surprisetalk",
+    "comments_count": 21,
+    "article_url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "An update on residential proxies and the scraper situation",
+    "rank": 7,
+    "points": 185,
+    "author": "chmaynard",
+    "comments_count": 177,
+    "article_url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
+    "rank": 8,
+    "points": 172,
+    "author": "CrankyBear",
+    "comments_count": 554,
+    "article_url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Documentation is still in your Mum's filing cabinet",
+    "rank": 9,
+    "points": 15,
+    "author": "mooreds",
+    "comments_count": 4,
+    "article_url": "https://gerireid.com/blog/organising-documentation-for-humans-and-ai/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Good Tools Are Invisible",
+    "rank": 10,
+    "points": 417,
+    "author": "theanonymousone",
+    "comments_count": 194,
+    "article_url": "https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "AI 2040: Plan A",
+    "rank": 11,
+    "points": 248,
+    "author": "kschaul",
+    "comments_count": 249,
+    "article_url": "https://ai-2040.com/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Silent speech with ultrasound",
+    "rank": 12,
+    "points": 47,
+    "author": "chrwn",
+    "comments_count": 11,
+    "article_url": "https://alephneuro.com/blog/silent-speech"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Combustion engine web-based simulator",
+    "rank": 13,
+    "points": 161,
+    "author": "mytuny",
+    "comments_count": 67,
+    "article_url": "https://combustionlab.net"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "The tech of 'Terminator 2' – an oral history (2017)",
+    "rank": 14,
+    "points": 213,
+    "author": "markus_zhang",
+    "comments_count": 75,
+    "article_url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Late Bronze Age Collapse",
+    "rank": 15,
+    "points": 364,
+    "author": "dmonay",
+    "comments_count": 248,
+    "article_url": "https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "What's the best way to do authentication in modern applications",
+    "rank": 16,
+    "points": 38,
+    "author": "freediver",
+    "comments_count": 10,
+    "article_url": "https://neciudan.dev/most-secure-way-to-store-auth-token"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "After 7 years in production, Scarf has reluctantly moved away from Haskell",
+    "rank": 17,
+    "points": 129,
+    "author": "aviaviavi",
+    "comments_count": 164,
+    "article_url": "https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+    "rank": 18,
+    "points": 443,
+    "author": "scrlk",
+    "comments_count": 361,
+    "article_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Inference Optimization for MiMo v2.5: Pushing Hybrid SWA Efficiency to the Limit",
+    "rank": 19,
+    "points": 72,
+    "author": "theanonymousone",
+    "comments_count": 29,
+    "article_url": "https://mimo.xiaomi.com/blog/mimo-v2-5-inference"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Computation as a universal and fundamental concept",
+    "rank": 20,
+    "points": 127,
+    "author": "simonpure",
+    "comments_count": 90,
+    "article_url": "https://ergo.org/courses/computation-as-a-universal-and-fundamental-concept"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "New York City to ban deceptive subscription practices",
+    "rank": 21,
+    "points": 505,
+    "author": "randycupertino",
+    "comments_count": 252,
+    "article_url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Alternate clock designs and time systems",
+    "rank": 22,
+    "points": 135,
+    "author": "ethanpil",
+    "comments_count": 75,
+    "article_url": "https://serialc.github.io/altClocks/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
+    "rank": 23,
+    "points": 183,
+    "author": "simonebrunozzi",
+    "comments_count": 144,
+    "article_url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "The Lindy effect in software",
+    "rank": 24,
+    "points": 14,
+    "author": "ankitg12",
+    "comments_count": 13,
+    "article_url": "https://www.clemsau.com/posts/the-lindy-effect-in-software/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Otary – Image and Geometry Python Library Now Has Tutorials",
+    "rank": 25,
+    "points": 3,
+    "author": "poupeaua",
+    "comments_count": 0,
+    "article_url": "https://alexandrepoupeau.com/otary/learn/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "A love letter to flashcards",
+    "rank": 26,
+    "points": 150,
+    "author": "surprisetalk",
+    "comments_count": 97,
+    "article_url": "https://lesleylai.info/en/flashcards/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Moss (YC F25) Is Hiring",
+    "rank": 27,
+    "points": null,
+    "author": null,
+    "comments_count": null,
+    "article_url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Lost city discovered beneath Egypt's desert with ancient church",
+    "rank": 28,
+    "points": 174,
+    "author": "Bender",
+    "comments_count": 113,
+    "article_url": "https://www.dailymail.com/sciencetech/article-15956159/Incredible-lost-city-discovered-Egypts-desert.html"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "rank": 29,
+    "points": 850,
+    "author": "vforno",
+    "comments_count": 211,
+    "article_url": "https://github.com/JustVugg/colibri"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/",
+    "scraped_at": "2026-07-11T08:42:40+00:00",
+    "title": "Preemption is GC for memory reordering (2019)",
+    "rank": 30,
+    "points": 27,
+    "author": "mpweiher",
+    "comments_count": 6,
+    "article_url": "https://pvk.ca/Blog/2019/01/09/preemption-is-gc-for-memory-reordering/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "War Atlas: An interactive cartography of every named war in human history",
+    "rank": 31,
+    "points": 147,
+    "author": "NaOH",
+    "comments_count": 64,
+    "article_url": "https://waratlas.org"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
+    "rank": 32,
+    "points": 75,
+    "author": "djfergus",
+    "comments_count": 16,
+    "article_url": "https://nebusec.ai/research/ionstack-part-2/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Successful companies go blind",
+    "rank": 33,
+    "points": 213,
+    "author": "speckx",
+    "comments_count": 77,
+    "article_url": "https://ianreppel.org/how-successful-companies-go-blind/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
+    "rank": 34,
+    "points": 74,
+    "author": "dicroce",
+    "comments_count": 13,
+    "article_url": "https://github.com/dicroce/wyrm_math"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Ask HN: Are systems ready for the first negative leap second?",
+    "rank": 35,
+    "points": 70,
+    "author": "Asmod4n",
+    "comments_count": 69,
+    "article_url": "https://news.ycombinator.com/item?id=48807108"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "The footgun of right-to-left decorative characters",
+    "rank": 36,
+    "points": 36,
+    "author": "dado3212",
+    "comments_count": 19,
+    "article_url": "https://blog.alexbeals.com/posts/the-footgun-of-right-to-left-decorative-characters"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: 18 Words",
+    "rank": 37,
+    "points": 1099,
+    "author": "pompomsheep",
+    "comments_count": 350,
+    "article_url": "https://18words.com/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+    "rank": 38,
+    "points": 129,
+    "author": "Gedxx",
+    "comments_count": 34,
+    "article_url": "https://mappingignorance.org/2026/06/30/sagrada-familia/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: Reverse-engineering web apps into agent tools",
+    "rank": 39,
+    "points": 81,
+    "author": "pancomplex",
+    "comments_count": 33,
+    "article_url": "https://news.ycombinator.com/item?id=48847834"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Punk, or why I don't stream anymore",
+    "rank": 40,
+    "points": 161,
+    "author": "surprisetalk",
+    "comments_count": 202,
+    "article_url": "https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+    "rank": 41,
+    "points": 58,
+    "author": "jarodrh",
+    "comments_count": 10,
+    "article_url": "https://github.com/Rodiun/frugon"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "How the terrorist group Boko Haram uses frontier AI",
+    "rank": 42,
+    "points": 204,
+    "author": "imustachyou",
+    "comments_count": 172,
+    "article_url": "https://casp.ac/reports/ai-enabled-terrorism"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "GPT-5.6",
+    "rank": 43,
+    "points": 1522,
+    "author": "logickkk1",
+    "comments_count": 1084,
+    "article_url": "https://openai.com/index/gpt-5-6/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: Reviving my 2001 college band with AI",
+    "rank": 44,
+    "points": 53,
+    "author": "jacobgraf",
+    "comments_count": 58,
+    "article_url": "https://www.fadingmaize.com"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "The Clouds of Hiroshima",
+    "rank": 45,
+    "points": 51,
+    "author": "handfuloflight",
+    "comments_count": 26,
+    "article_url": "https://doomsdaymachines.net/p/the-clouds-of-hiroshima"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "EU Parliament greenlights Chat Control 1.0",
+    "rank": 46,
+    "points": 1592,
+    "author": "rapnie",
+    "comments_count": 817,
+    "article_url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "rank": 47,
+    "points": 203,
+    "author": "tosh",
+    "comments_count": 292,
+    "article_url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Cpp2Rust: Translates C++ to safe Rust automatically",
+    "rank": 48,
+    "points": 48,
+    "author": "signa11",
+    "comments_count": 14,
+    "article_url": "https://github.com/Cpp2Rust/cpp2rust"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Gary Kildall's Death Investigation",
+    "rank": 49,
+    "points": 13,
+    "author": "rbanffy",
+    "comments_count": 0,
+    "article_url": "https://dfarq.homeip.net/gary-kildalls-death-investigation/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "In Emacs, everything looks like a service",
+    "rank": 50,
+    "points": 239,
+    "author": "kickingvegas",
+    "comments_count": 102,
+    "article_url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Ditching Vagrant: VMs with KVM and Virsh on Debian",
+    "rank": 51,
+    "points": 92,
+    "author": "fanf2",
+    "comments_count": 42,
+    "article_url": "https://benjamintoll.com/2026/06/29/on-ditching-vagrant/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "The Annotated JEPA",
+    "rank": 52,
+    "points": 58,
+    "author": "surprisetalk",
+    "comments_count": 11,
+    "article_url": "https://elonlit.com/scrivings/the-annotated-jepa/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Train sim created by just one person is being called the best ever made",
+    "rank": 53,
+    "points": 827,
+    "author": "oumua_don17",
+    "comments_count": 338,
+    "article_url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Hands-On with the AMD Ryzen AI Halo",
+    "rank": 54,
+    "points": 46,
+    "author": "bdcravens",
+    "comments_count": 42,
+    "article_url": "https://www.microcenter.com/site/mc-news/article/amd-ryzen-ai-halo-review.aspx"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "rank": 55,
+    "points": 1374,
+    "author": "djoldman",
+    "comments_count": 299,
+    "article_url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: SubjectiveZero, an open-source agentic node editor for creative coding",
+    "rank": 56,
+    "points": 21,
+    "author": "tasoeur",
+    "comments_count": 4,
+    "article_url": "https://sxp.studio/apps/subz"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Materials innovation has a scale-up problem, not discovery",
+    "rank": 57,
+    "points": 26,
+    "author": "groznyj",
+    "comments_count": 12,
+    "article_url": "https://www.atomscale.ai/updates/our-thesis-atom-to-scale"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Show HN: Abralo – Free, easy way to run several Claude Code agents in one window",
+    "rank": 58,
+    "points": 32,
+    "author": "cwbuilds",
+    "comments_count": 23,
+    "article_url": "https://abralo.com/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "Postgres locks do not scale",
+    "rank": 59,
+    "points": 16,
+    "author": "timetoogo",
+    "comments_count": 8,
+    "article_url": "https://www.recall.ai/blog/postgres-locks-do-not-scale"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=2",
+    "scraped_at": "2026-07-11T08:42:41+00:00",
+    "title": "EU Commission: addictive design Instagram and Facebook in breach of the DSA",
+    "rank": 60,
+    "points": 261,
+    "author": "jeroenhd",
+    "comments_count": 175,
+    "article_url": "https://ec.europa.eu/commission/presscorner/home/en"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Show HN: Phobos – A tiny scale-free kernel language with tile-DAG support",
+    "rank": 61,
+    "points": 7,
+    "author": "joajoa",
+    "comments_count": 1,
+    "article_url": "https://www.joa-ebert.com/posts/2026-07-07-phobos-lang/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Prismata: Confining cross-site prompt injection in web agents",
+    "rank": 62,
+    "points": 13,
+    "author": "zhinit",
+    "comments_count": 0,
+    "article_url": "https://arxiv.org/abs/2607.08147"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "rank": 63,
+    "points": 278,
+    "author": "smusamashah",
+    "comments_count": 230,
+    "article_url": "https://nevo-project.epfl.ch/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Building a real-time AI tutor for 5-year-olds",
+    "rank": 64,
+    "points": 142,
+    "author": "catalinvoss",
+    "comments_count": 393,
+    "article_url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "rank": 65,
+    "points": 116,
+    "author": "TheYahiaBakour",
+    "comments_count": 86,
+    "article_url": "https://www.context.dev"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+    "rank": 66,
+    "points": 795,
+    "author": "SweetSoftPillow",
+    "comments_count": 709,
+    "article_url": "https://github.com/malisper/pgrust"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Meta pulls new AI image feature after days of backlash",
+    "rank": 67,
+    "points": 47,
+    "author": "cdrnsf",
+    "comments_count": 15,
+    "article_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Meta removes AI feature on Instagram after global backlash",
+    "rank": 68,
+    "points": 13,
+    "author": "billybuckwheat",
+    "comments_count": 2,
+    "article_url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Show HN: Runloom – Go-style coroutines for Python free-threaded",
+    "rank": 69,
+    "points": 45,
+    "author": "Uptrenda",
+    "comments_count": 28,
+    "article_url": "https://github.com/robertsdotpm/runloom"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Ryanair passenger sucked toward broken window after midair engine failure",
+    "rank": 70,
+    "points": 65,
+    "author": "amelius",
+    "comments_count": 62,
+    "article_url": "https://simpleflying.com/ryanair-thessaloniki-diversion-window-damage/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Pirate Site Blocking Is Legally Impossible in Bulgaria, Supreme Court Ruled",
+    "rank": 71,
+    "points": 52,
+    "author": "thisislife2",
+    "comments_count": 1,
+    "article_url": "https://torrentfreak.com/pirate-site-blocking-is-legally-impossible-in-bulgaria-supreme-court-ruled/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "TLS certificates for internal services done right",
+    "rank": 72,
+    "points": 178,
+    "author": "mrl5",
+    "comments_count": 140,
+    "article_url": "https://tuxnet.dev/posts/tls-for-internal-services/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "FreeCAD in the Browser",
+    "rank": 73,
+    "points": 43,
+    "author": "cui",
+    "comments_count": 29,
+    "article_url": "https://magik.net/freecad/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Please don't discontinue Gemini 2.5 Flash",
+    "rank": 74,
+    "points": 121,
+    "author": "NickDob",
+    "comments_count": 81,
+    "article_url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Ask HN: How do you use Vim in the era of AI?",
+    "rank": 75,
+    "points": 39,
+    "author": "rstagi",
+    "comments_count": 77,
+    "article_url": "https://news.ycombinator.com/item?id=48859439"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Parental device use and the adolescent-caregiver attachment bond",
+    "rank": 76,
+    "points": 168,
+    "author": "hbcondo714",
+    "comments_count": 149,
+    "article_url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1766665/full"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Zeal 8-Bit Computer",
+    "rank": 77,
+    "points": 11,
+    "author": "gregsadetsky",
+    "comments_count": 1,
+    "article_url": "https://zeal8bit.com/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Why American ambulance rides are so expensive",
+    "rank": 78,
+    "points": 310,
+    "author": "jyunwai",
+    "comments_count": 465,
+    "article_url": "https://davidoks.blog/p/why-american-ambulance-rides-are"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "How RCA Victor sold Sound Service to classrooms in 1939",
+    "rank": 79,
+    "points": 23,
+    "author": "pncnmnp",
+    "comments_count": 9,
+    "article_url": "https://pncnmnp.github.io/blogs/rca-victor-education.html"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Interview with Mitchell Hashimoto about Ghostty and Zig",
+    "rank": 80,
+    "points": 381,
+    "author": "veqq",
+    "comments_count": 226,
+    "article_url": "https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Hy3",
+    "rank": 81,
+    "points": 549,
+    "author": "andai",
+    "comments_count": 116,
+    "article_url": "https://hy.tencent.com/research/hy3"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "SimPolitics: America’s quest to solve politics with computers",
+    "rank": 82,
+    "points": 104,
+    "author": "mckelveyf",
+    "comments_count": 45,
+    "article_url": "https://mitpress.mit.edu/9780262053198/simpolitics/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Write code like a human will maintain it",
+    "rank": 83,
+    "points": 330,
+    "author": "ScottWRobinson",
+    "comments_count": 283,
+    "article_url": "https://unstack.io/write-code-like-a-human-will-maintain-it"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+    "rank": 84,
+    "points": 380,
+    "author": "PotatoNinja",
+    "comments_count": 252,
+    "article_url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Metamaterial Antennas Enhance MRI of the Eye and Occipital Brain",
+    "rank": 85,
+    "points": 5,
+    "author": "bookofjoe",
+    "comments_count": 0,
+    "article_url": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202517760"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+    "rank": 86,
+    "points": 1478,
+    "author": "speerer",
+    "comments_count": 232,
+    "article_url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Opinionated and easy Pi.dev configuration",
+    "rank": 87,
+    "points": 145,
+    "author": "lwhsiao",
+    "comments_count": 71,
+    "article_url": "https://lazypi.org/"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+    "rank": 88,
+    "points": 7,
+    "author": "1vuio0pswjnm7",
+    "comments_count": 0,
+    "article_url": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "Meta reuses old RAM in new servers with custom bridge chip",
+    "rank": 89,
+    "points": 326,
+    "author": "ihsw",
+    "comments_count": 228,
+    "article_url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483"
+  },
+  {
+    "source_url": "https://news.ycombinator.com/?p=3",
+    "scraped_at": "2026-07-11T08:42:43+00:00",
+    "title": "I think I was part of a model distillation attack",
+    "rank": 90,
+    "points": 21,
+    "author": "marinesebastian",
+    "comments_count": 2,
+    "article_url": "https://sebastianmarines.com/post/i-think-i-was-part-of-a-model-distillation-attack/"
+  }
+]

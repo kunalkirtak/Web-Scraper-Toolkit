@@ -99,8 +99,12 @@ Web-Scraper-Toolkit/
 ├── utils.py                     # Shared helpers (parsing, cleaning, retries)
 ├── main.py                       # CLI entry point
 │
-├── output/                # Live-run output 
-│   └── .gitkeep
+├── output/                # Live-run output ( original generated output files and images)
+│   ├── .gitkeep
+│   ├── list_packages.png / debug_logs.png / json_output.png / all_scrapper.png
+│   ├── news.csv / news.json / news.png
+│   ├── products.csv / products.json / products.png
+│   └── jobs.csv / jobs.json / jobs.png
 │
 ├── samples/                # Committed, ready-to-browse sample data
 │   ├── news.csv / news.json

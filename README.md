@@ -131,7 +131,7 @@ Every module in the tree above is implemented and tested — see
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/Web-Scraper-Toolkit.git
+git clone https://github.com/kunalkirtak/Web-Scraper-Toolkit.git
 cd Web-Scraper-Toolkit
 
 # 2. Create and activate a virtual environment
